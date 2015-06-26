@@ -1,10 +1,13 @@
 Negativ Groups
 ==============
 
-You can now use in the backend and frontend groups and negative groups
+You can now use in the backend and frontend groups and negative groups.
+
+
 Example:
+--------
+
 * groups="myaddon.group"
-and now the new
 * groups="not myaddon.group"
 
 Regards Bloopark
