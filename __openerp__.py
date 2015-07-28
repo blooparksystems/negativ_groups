@@ -25,6 +25,7 @@
     'version': '1.0',
     'author': "bloopark systems GmbH & Co. KG",
     'website': "http://www.bloopark.de",
+    'license': 'AGPL-3',
     'depends': ['base'],
     'installable': True,
     'auto_install': False,
